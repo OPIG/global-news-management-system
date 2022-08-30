@@ -1,0 +1,81 @@
+ {
+//   "env": {
+//       "browser": true,
+//       "node": true,
+//       "es6": true,
+//       "jest": true
+//   },
+//   "parser": "@typescript-eslint/parser",
+//   "extends": [
+//       "eslint:recommended",
+//       "plugin:@typescript-eslint/recommended",
+//     //   "prettier/@typescript-eslint",
+//       "plugin:prettier/recommended",
+//       "prettier/react",
+//       "plugin:react-hooks/recommended"
+//   ],
+//   "plugins": ["@typescript-eslint","prettier", "react"],
+//   "parserOptions": {
+//       "ecmaVersion": 2017,
+//       "sourceType": "module",
+//       "ecmaFeatures": {
+//           "jsx": true,
+//           "legacyDecorators": true
+//       }
+//   },
+//   "rules": {
+//       "max-len": "off",
+//       "array-callback-return": "off",
+//       "no-console": "error",
+//       "no-useless-escape": "off",
+//       "react/display-name": "off",
+//       "max-lines": [
+//           "error",
+//           {
+//               "max": 700,
+//               "skipBlankLines": true,
+//               "skipComments": true
+//           }
+//       ],
+//       "no-duplicate-imports": "error",
+//       "max-params": [0, 20],
+//       "max-nested-callbacks": [0, 5],
+//       "react/jsx-uses-react": "error",
+//       "react/jsx-uses-vars": "error",
+//       "react/jsx-no-undef": ["error", { "allowGlobals": true }],
+//       "react-hooks/rules-of-hooks": "error",
+//       "react-hooks/exhaustive-deps": "warn",
+//       "prettier/prettier": [
+//           "error",
+//           {
+//               "trailingComma": "all",
+//               "tabWidth": 4,
+//               "semi": true,
+//               "singleQuote": true,
+//               "jsxBracketSameLine": true,
+//               "arrowParens": "avoid",
+//               "printWidth": 100,
+//               "endOfLine": "auto" //解决Delete `␍`eslint报错
+//           }
+//       ],
+//       "@typescript-eslint/explicit-module-boundary-types": "off",
+//       "@typescript-eslint/no-var-requires": "off",
+//       "@typescript-eslint/no-unused-vars": "off",
+//       "@typescript-eslint/no-this-alias": "off",
+//       "@typescript-eslint/no-empty-function": "off"
+//   },
+//   "globals": {
+//       "React": true,
+//       "$request": true,
+//       "$ajax": true,
+//       "$soa": true,
+//       "google": true,
+//       "AMap": true,
+//       "Component": true,
+//       "Enzyme": true,
+//       "test": true,
+//       "expect": true,
+//       "describe": true,
+//       "mapboxgl": true
+//   }
+}
